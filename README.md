@@ -19,4 +19,4 @@ Even though [LeetCode](https://leetcode.com) already stores submissions, I like 
 ### Personal Goals
 
 - [ ] Write an explanation for every solution
-- [ ] Refactor early solutions after learning better patterns
+- [ ] Refactor early solutions after learning better patternst
